@@ -1,5 +1,5 @@
 """
-Lab 03
+03. Lab 03
 Unit tests for the dot product of sparse vectors
 Name : Min Soo (Mike) HWANG
 Student Number : A01198733

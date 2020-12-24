@@ -1,6 +1,6 @@
 """
 COMP 1510
-Final Exam - Yahtzee
+09. Final Exam - Yahtzee
 Name : Min Soo (Mike) HWANG
 Student Number : A01198733
 Set : F

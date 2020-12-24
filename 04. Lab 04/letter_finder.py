@@ -1,5 +1,5 @@
 """
-Lab 04
+04. Lab 04
 'letter' Finder
 Name : Min Soo (Mike) HWANG
 Student Number : A01198733

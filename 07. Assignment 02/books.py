@@ -1,5 +1,5 @@
 """
-Lab 04 / Assignment 2
+04. Lab 04 / Assignment 2
 Book collection manager
 Name : Min Soo (Mike) HWANG
 Student Number : A01198733

@@ -1,5 +1,5 @@
 """
-Lab 03
+03. Lab 03
 Addition and dot products of sparse vectors
 Name : Min Soo (Mike) HWANG
 Student Number : A01198733
